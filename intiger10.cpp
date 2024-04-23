@@ -6,11 +6,11 @@ using namespace std;
 
 int main()
 {
-    int a,b,c;
-    cout<<"a=";
-    cin>>a;
-    b=a%10;
-    cout<<"b="<<b<<endl;
-    c=a%100/10;
-    cout<<"c="<<c;
+    int d,f,g;
+    cout<<"d=";
+    cin>>d;
+    f=d%10;
+    cout<<"f="<<f<<endl;
+    g=d%100/10;
+    cout<<"g="<<g;
 }
