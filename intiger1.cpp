@@ -6,10 +6,10 @@ using namespace std;
 
 int main()
 {
-    int l,lm;
-    cout<<"l=";
-    cin>>l;
-    lm=l/100;
-    cout<<"lm="<<lm;
+    int s,cm;
+    cout<<"s=";
+    cin>>s;
+    cm=s/100;
+    cout<<"cm="<<cm;
 
 }
