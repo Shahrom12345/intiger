@@ -6,14 +6,14 @@ using namespace std;
 
 int main()
 {
-    int a,b,c,d,sum,hosil;
-    cout<<"a=";
-    cin>>a;
-    b=a%10;
-    c=a%100/10;
-    d=a/10;
-    sum=b+c+d;
+    int A,B,C,D,sum,hosil;
+    cout<<"A=";
+    cin>>A;
+    B=a%10
+    C=A%100/10;
+    D=A/10;
+    sum=B+C+D;
     cout<<"sum="<<sum<<endl;
-    hosil=b*c*d;
+    hosil=B*C*D;
     cout<<"hosil="<<hosil;
 }
